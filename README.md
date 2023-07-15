@@ -18,4 +18,5 @@ This webpage was created by [Prabhat Jain] as a personal project. Feel free to m
 
 If you would like to contribute to this project, please submit a pull request or open an issue to discuss any proposed changes.
 
-## Link to this webpage: https://thefitclubprabhat.netlify.app/
+## Link to this webpage: 
+
